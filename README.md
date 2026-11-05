@@ -20,6 +20,8 @@
 | Service | Great | ⭐     |
 | Price    | Expensive | ⭐⭐⭐    |
 
+Price weight increased.
+
 ### **Card 3:**
 **Customer Opinion: LIKE**
 | **Feature**    | **Rating** | **Tokens (weight)** |
@@ -27,6 +29,8 @@
 | Food  | Good | ⭐⭐⭐    |
 | Service | Okay | ⭐     |
 | Price    | Moderate | ⭐⭐    |
+
+Price weight decreased.
 
 ### **Card 4:**
 **Customer Opinion: DISLIKE**
@@ -36,6 +40,8 @@
 | Service | Poor | ⭐⭐⭐     |
 | Price    | Cheap | ⭐    |
 
+Service weight increased and Price weight decreased.
+
 ### **Card 5:**
 **Customer Opinion: LIKE**
 | **Feature**    | **Rating** | **Tokens (weight)** |
@@ -43,6 +49,8 @@
 | Food  | Excellent | ⭐⭐⭐    |
 | Service | Excellent | ⭐⭐⭐     |
 | Price    | Expensive | ⭐    |
+
+No change.
 
 ### **Card 6:**
 **Customer Opinion: DISLIKE**
@@ -52,6 +60,8 @@
 | Service | Bad | ⭐⭐⭐     |
 | Price    | Moderate | ⭐    |
 
+Food weight decreased.
+
 ### **Card 7:**
 **Customer Opinion: LIKE**
 | **Feature**    | **Rating** | **Tokens (weight)** |
@@ -59,6 +69,8 @@
 | Food  | Great | ⭐⭐⭐    |
 | Service | Okay | ⭐⭐     |
 | Price    | Cheap | ⭐⭐    |
+
+Food and Price weight increased while Service weight decreased.
 
 ### **Card 8:**
 **Customer Opinion: DISLIKE**
@@ -68,6 +80,8 @@
 | Service | Excellent | ⭐     |
 | Price    | Expensive | ⭐⭐⭐    |
 
+Price weight increased and Service weight decreased.
+
 ### **Card 9:**
 **Customer Opinion: LIKE**
 | **Feature**    | **Rating** | **Tokens (weight)** |
@@ -76,6 +90,7 @@
 | Service | Poor | ⭐     |
 | Price    | Moderate | ⭐⭐⭐    |
 
+No change.
 
 ### **Card 10:**
 **Customer Opinion: DISLIKE**
@@ -84,6 +99,8 @@
 | Food  | Okay | ⭐    |
 | Service | Okay | ⭐     |
 | Price    | Expensive | ⭐⭐⭐    |
+
+Food weight decreased.
 
 # Part B: Testing Phase
 
