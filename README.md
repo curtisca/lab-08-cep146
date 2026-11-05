@@ -37,7 +37,7 @@ Price weight decreased.
 | **Feature**    | **Rating** | **Tokens (weight)** |
 | -------- | ------- | ------- |
 | Food  | Poor | ⭐⭐⭐    |
-| Service | Poor | ⭐⭐⭐     |
+| Service | Poor | ⭐⭐     |
 | Price    | Cheap | ⭐    |
 
 Service weight increased and Price weight decreased.
@@ -47,7 +47,7 @@ Service weight increased and Price weight decreased.
 | **Feature**    | **Rating** | **Tokens (weight)** |
 | -------- | ------- | ------- |
 | Food  | Excellent | ⭐⭐⭐    |
-| Service | Excellent | ⭐⭐⭐     |
+| Service | Excellent | ⭐⭐     |
 | Price    | Expensive | ⭐    |
 
 No change.
@@ -57,7 +57,7 @@ No change.
 | **Feature**    | **Rating** | **Tokens (weight)** |
 | -------- | ------- | ------- |
 | Food  | Okay | ⭐⭐    |
-| Service | Bad | ⭐⭐⭐     |
+| Service | Bad | ⭐⭐     |
 | Price    | Moderate | ⭐    |
 
 Food weight decreased.
@@ -67,10 +67,10 @@ Food weight decreased.
 | **Feature**    | **Rating** | **Tokens (weight)** |
 | -------- | ------- | ------- |
 | Food  | Great | ⭐⭐⭐    |
-| Service | Okay | ⭐⭐     |
+| Service | Okay | ⭐     |
 | Price    | Cheap | ⭐⭐    |
 
-Food and Price weight increased while Service weight decreased.
+Food and Price weight increased.
 
 ### **Card 8:**
 **Customer Opinion: DISLIKE**
@@ -80,7 +80,7 @@ Food and Price weight increased while Service weight decreased.
 | Service | Excellent | ⭐     |
 | Price    | Expensive | ⭐⭐⭐    |
 
-Price weight increased and Service weight decreased.
+Price weight increased.
 
 ### **Card 9:**
 **Customer Opinion: LIKE**
@@ -96,7 +96,7 @@ No change.
 **Customer Opinion: DISLIKE**
 | **Feature**    | **Rating** | **Tokens (weight)** |
 | -------- | ------- | ------- |
-| Food  | Okay | ⭐    |
+| Food  | Okay | ⭐⭐    |
 | Service | Okay | ⭐     |
 | Price    | Expensive | ⭐⭐⭐    |
 
